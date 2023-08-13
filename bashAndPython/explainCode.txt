@@ -1,0 +1,10 @@
+random-exit.py generates a random integer between 0 and 3 (inclusive),
+ prints the value with a message, and then exits with the generated value as the exit code.
+This Bash script takes a command as an argument and attempts to execute it repeatedly in a loop.
+ The loop is designed to retry the command until either the command succeeds or a maximum of 5 attempts.
+the Bash script attempts to run the provided command multiple times,
+ waiting an increasing amount of time between retries, up to a maximum of 5 attempts.
+ The script keeps retrying until the command succeeds or the maximum retry limit is reached.
+
+
+
